@@ -1,0 +1,61 @@
+body {
+	background: linear-gradient(to right, #80b5bd, #eee2e2);
+	text-align: center;
+}
+
+h1 {
+	font-family:"Lora", bold;
+	letter-spacing: 0.3em;
+	font-size: 35px;
+	text-shadow: 3px 3px 7px #191919;
+	text-decoration-line: 
+}
+
+h2, h3, button {
+	font-family:"Lora", serif;
+}
+
+h3 {
+	border-bottom: black solid 1px;
+	padding: 1px;
+	display: inline;
+}
+
+button {
+	border-color: none;
+	border: 0px;
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 20px;
+}
+
+button:hover {
+	background-color: black;
+	color: white;
+}
+
+input {
+	height: 100px;
+	width: 100px;
+}
+
+footer {
+	font-family: "Lora", serif;
+	background-color: rgba(255, 255, 255, 0.4);
+	position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	text-align: center;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+
+
+
+
+
+
+
+
